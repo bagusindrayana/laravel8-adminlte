@@ -2,7 +2,7 @@
 - https://laravel.com/docs/8.x/releases
 - https://adminlte.io
 
-# Fetures
+# Features
 - Group with dynamic access menu
 - User
 - Datatable Server Side
